@@ -18,3 +18,12 @@
     cause they're cool.\n- Skype's Twitter was hacked by SEA, and they wrote \"don't
     use Microsoft's emails cause they're being read\".\n- In the late evening everybody
     on Twitter was talking about not talking about Sherlock to avoid spoilers."}
+2: {text: '- I decided to write an operating system for no reason. Yay me!
+
+    - A girl made a showcase of #NYGJ games on YouTube, unfortunately my game was
+    called... whatever.'}
+3: {text: '- I asked Blechi to take my #NYGJ entry down. I can''t get diff to make
+    a proper patch file.'}
+4: {text: '- My brother stepped on my headphones while jumping on my sofa in an attempt
+    to attack me from air. While they still work and I don''t find anything bad, dad
+    says they''re so broken so they can break any minute. Shit.'}
