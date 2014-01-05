@@ -26,4 +26,15 @@
     a proper patch file.'}
 4: {text: '- My brother stepped on my headphones while jumping on my sofa in an attempt
     to attack me from air. While they still work and I don''t find anything bad, dad
-    says they''re so broken so they can break any minute. Shit.'}
+    says they''re so broken so they can break any minute. Shit.
+
+    - I made a SoundCloud playlist called "Mainstream EDM @F0lis would exorcise my
+    headphones for".
+
+    - I updated youtube-dl. Wow. It''s growing fast.
+
+    - I cleaned my phone''s SD card. Much more music fits now.'}
+5: {text: '- I watched Home Alone 5. I find it way better (that nerd guy was funny)
+    than Home Alone 4.
+
+    - I installed TTYtter and learnt to use it better than @Gallefray ;)'}
