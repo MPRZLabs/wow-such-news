@@ -52,3 +52,6 @@
 
     - Played a bit of Gemini Rue, not sure what to thing about this game because it''s
     interesting but I am easily getting stuck.'}
+6: {text: '- I came up with an idea to try compiling ProfMobius''s Opis mod for Minecraft
+    1.7.2 so that I can have a minimap of some kind and I pretty much gave up after
+    3-4 hours of downloading dependencies of MCP and MCF.'}
