@@ -54,4 +54,9 @@
     interesting but I am easily getting stuck.'}
 6: {text: '- I came up with an idea to try compiling ProfMobius''s Opis mod for Minecraft
     1.7.2 so that I can have a minimap of some kind and I pretty much gave up after
-    3-4 hours of downloading dependencies of MCP and MCF.'}
+    3-4 hours of downloading dependencies of MCP and MCF.
+
+    - After totally wanting a 3DS and finding out again that Pebble exists I had a
+    fight with my brain on Twitter (people loved it :D).
+
+    - Dad said I totally can''t get a Pebble if it''s more expensive than an Ouya.'}
