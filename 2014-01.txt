@@ -9,10 +9,10 @@
     work\n - Uninstalling PulseAudio didn't made JACK work, so I uninstalled JACK\n
     - **__We Scythians loathe PulseAudio.__**\n- I removed GNUstep cause while it
     was distraction-less, it was also menu-less.\n- I had a look at video materials
-    for the Gimbal and they suck\n - Actresses are bad. Oh man.\n - Screenplay is
+    for the #gimbal and they suck\n - Actresses are bad. Oh man.\n - Screenplay is
     half a nonsense. Oh maan.\n - The song the video's going to parody is way shorter
     than lyrics supplied by my teacher. Oh maaan.\n - I am responsible for making
-    it look good. Oh maaaan.\n- **I used the Gimbal video materials to make a GIF
+    it look good. Oh maaaan.\n- **I used the #gimbal video materials to make a GIF
     of my friend, hehe**\n - I uploaded it to MediaCrush (https://mediacru.sh/y8Wq9dQoqtIT)
     and it's 2000% more efficent now\n  - I donated 0.0005 BTC (~$0.33) to MediaCrush
     cause they're cool.\n- Skype's Twitter was hacked by SEA, and they wrote \"don't
@@ -66,8 +66,8 @@
     of him as a drill operator appeared. I also put his face in a snapshot from What
     Does The Fox Say vid, but instead of uploading it I sent it to my friends who
     may need revenge too.\n- I started playing To The Moon and I love it all.\n -
-    Now I hate my life because I spent a few hours playing it instead of working oh
-    shit oh shit oh shit"}
+    Now I hate my life because I spent a few hours playing it instead of working on
+    #gimbal video oh shit oh shit oh shit"}
 9: {text: "- Don't tell my mom but I finished To The Moon.\n - **Aaaaawwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
     so movinggggggggggg**"}
 10: {text: '- I had one of those days when I would just get back from school and fall
