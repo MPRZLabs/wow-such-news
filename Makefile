@@ -1,7 +1,13 @@
-all: commit upload
+all: autocommit upload
 
-commit:
-	git commit -am "Automatic update"
+autocommit:
+	git commit -m "Automatic update"
+
+gitadd:
+	git add *.txt
 
 upload:
 	git push
+
+owncommit:
+	git commit
