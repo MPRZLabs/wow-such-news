@@ -72,3 +72,17 @@
     so movinggggggggggg**"}
 10: {text: '- I had one of those days when I would just get back from school and fall
     asleep on the sofa.'}
+11: {text: '- I began #DefinitelyNotJam, a 6 months long game jam, in an attempt to
+    make a full game.
+
+    - I spent some time browsing Google Play for voice assistant apps that actually
+    work in my country.
+
+    - I tried starting working on #MentalWarrior but couldn''t decide how so I ended
+    up starting downloading libgdx.
+
+    - Meanwhile I started making a long mix thing song heavily inspired (at least
+    in my opinion) by deadmau5 https://mediacru.sh/1vGfAl-vrVKp'}
+12: {text: '- Before I went to bed I booted computer once more to download some deadmau5
+    to my phone and accidentally played my new track. #ScratchTheCat suddenly turned
+    her head, jumped onto my desk and started observing the speakers quietly.'}
