@@ -83,9 +83,17 @@
 
     - Meanwhile I started making a long mix thing song heavily inspired (at least
     in my opinion) by deadmau5 https://mediacru.sh/1vGfAl-vrVKp'}
-12: {text: '- Before I went to bed I booted computer once more to download some deadmau5
+12: {text: "- Before I went to bed I booted computer once more to download some deadmau5
     to my phone and accidentally played my new track. #ScratchTheCat suddenly turned
-    her head, jumped onto my desk and started observing the speakers quietly.
-
-    - I almost finished the video for #gimbal. I only need a video of a cow and ending
-    titles.'}
+    her head, jumped onto my desk and started observing the speakers quietly.\n- I
+    almost finished the video for #gimbal. I only need a video of a cow and ending
+    titles.\n- I was on a mass at church and the old priest is good at scaring me
+    away from the church. He talked radioactive waste, pilgrimages, gender ideology,
+    and tons of stuff unrelated to the readings.\n- I spent some time listening to
+    Studio109 radio broadcast hosted at Armoured Crow server. I found some of the
+    music cool. Putting notes here to find that stuff later: https://www.facebook.com/groups/212527528894087/
+    Skeleton Disco (live Studio109 session), Vacant Sun, The Inkhearts, The Gunrunners,
+    Red Eye Jedi, Riggots, Dave Beeston, Paul Henty, Bad Things, Trioptimumscaper,
+    Paul Henty, Kof, Sky Valley Mistress, Somnium, Cat Called Dog, Glasguns, Rime
+    Suspex, Frank McHale\n - I went \"hey, why don't I set up Icecast on my Raspberry
+    Pi and take it to school and make a local radio broadcast too\". Thanks Alex."}
