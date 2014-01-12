@@ -1,6 +1,6 @@
 all: autocommit upload
 
-autocommit:
+autocommit: gitadd
 	git commit -m "Automatic update"
 
 gitadd:
