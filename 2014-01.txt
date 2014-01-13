@@ -101,4 +101,6 @@
     about the broadcast idea. He liked it.\n- I also told my another musician friend
     (trombonist) about my idea and he had some ideas regarding it too.\n - He also
     said he'd like to do a trombone-guitar-drums cover of Avicii's Wake Me Up with
-    me and that drummer guy."}
+    me and that drummer guy.\n- I came back from school and prepared a partition for
+    the Linux Distros Hunger Games. Arch is first in queue.\n - Wow, I didn't know
+    there can be /dev/sdb10.\n- Arch is burning."}
