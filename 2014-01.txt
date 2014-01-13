@@ -97,3 +97,8 @@
     Paul Henty, Kof, Sky Valley Mistress, Somnium, Cat Called Dog, Glasguns, Rime
     Suspex, Frank McHale\n - I went \"hey, why don't I set up Icecast on my Raspberry
     Pi and take it to school and make a local radio broadcast too\". Thanks Alex."}
+13: {text: "- I told that musician friend of mine (drummer of a local metal band Brainwash)
+    about the broadcast idea. He liked it.\n- I also told my another musician friend
+    (trombonist) about my idea and he had some ideas regarding it too.\n - He also
+    said he'd like to do a trombone-guitar-drums cover of Avicii's Wake Me Up with
+    me and that drummer guy."}
