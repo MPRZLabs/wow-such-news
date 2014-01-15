@@ -103,4 +103,13 @@
     said he'd like to do a trombone-guitar-drums cover of Avicii's Wake Me Up with
     me and that drummer guy.\n- I came back from school and prepared a partition for
     the Linux Distros Hunger Games. Arch is first in queue.\n - Wow, I didn't know
-    there can be /dev/sdb10.\n- Arch is burning.\n- Arch is alive.\n - I hate it yet."}
+    there can be /dev/sdb10.\n- Arch is burning.\n- Arch is alive.\n - I hate it yet.\n-
+    I decided not to use Arch. Arch is no good for me. I know it's a DIY kind of distro,
+    but, y'know, even sudo has to be installed separately. Not for me.\n - Fedora
+    comes next, I believe."}
+14: {text: "- Broken Age beta came out and I hate my wallet literally.\n - Arrrrrrrrrghhhhhhhhh.\n-
+    I'm going to stay up all night to finish #gimbal videos.\n"}
+15: {text: '- I was up all night and then had to go to school.
+
+    - We lost in a patriotic contest. Despite the fact we were better we lost to headmaster''s
+    daughter''s class (who were also organizing the whole contest this year).'}
