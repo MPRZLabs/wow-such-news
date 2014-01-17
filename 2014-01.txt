@@ -113,3 +113,11 @@
 
     - We lost in a patriotic contest. Despite the fact we were better we lost to headmaster''s
     daughter''s class (who were also organizing the whole contest this year).'}
+16: {text: "- I didn't go to school to take care of rendering for #gimbal. Unfortunately,
+    I wasted 6 hours of rendering by sleeping 3 hours too long.\n- I started almost
+    final rendering. 13 hours. Yay. :P\n- I started watching #RockmanEXE. Yaaaaaaaaaaaaaaaaaay.
+    :D\n - Rockman.EXE was both first and last anime I watched and loved. Maybe except
+    some Pokemon series I saw a bit of in meanwhile. Still I prefer Rockman."}
+17: {text: "- At almost 5 a.m. I finished 4th episode of #RockmanEXE.\n - It's not
+    that I wasn't sleeping, I just woke up at 4 and wanted to check how's rendering
+    for #gimbal going.\n  - And it was going good."}
