@@ -120,4 +120,4 @@
     some Pokemon series I saw a bit of in meanwhile. Still I prefer Rockman."}
 17: {text: "- At almost 5 a.m. I finished 4th episode of #RockmanEXE.\n - It's not
     that I wasn't sleeping, I just woke up at 4 and wanted to check how's rendering
-    for #gimbal going.\n  - And it was going good."}
+    for #gimbal going.\n  - And it was going well."}
