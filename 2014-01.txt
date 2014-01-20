@@ -121,3 +121,15 @@
 17: {text: "- At almost 5 a.m. I finished 4th episode of #RockmanEXE.\n - It's not
     that I wasn't sleeping, I just woke up at 4 and wanted to check how's rendering
     for #gimbal going.\n  - And it was going well."}
+18: {text: '- We assembled the #Gimbal Trigon Trifecta blah blah blah. Mou oshimai
+    da.
+
+    - While I was not dancing, I was throwing random RPG status tweets like "DJ played
+    some shit song. HP -40 60/100 Status: poisoned".
+
+    - I spent half an evening tweeting with people, lol.'}
+19: {text: '- I found out that Spotify dropped the limits on free version. Yay!
+
+    - Spotify Free thing made me notice how many Area 11 songs I had no chance to
+    hear :( Now I want to buy #ATLITS CD.'}
+20: {text: '- I had pizza with friends.'}
