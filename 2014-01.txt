@@ -132,4 +132,9 @@
 
     - Spotify Free thing made me notice how many Area 11 songs I had no chance to
     hear :( Now I want to buy #ATLITS CD.'}
-20: {text: '- I had pizza with friends.'}
+20: {text: '- I had pizza with friends.
+
+    - A girl from my school followed me on Twitter, but all she did was fav one of
+    my Spotify tweets and then forget about Twitter for a month again.'}
+24: {text: '- Joost reunited with the world.'}
+29: {text: '- I installed #SL4A on my phone.'}

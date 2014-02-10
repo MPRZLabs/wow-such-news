@@ -1,0 +1,52 @@
+1: {text: '- X3 left our IRC at midnight UTC saying the registration expired, so I
+    re-registered it.
+
+    - I started looking for hints about when the AHN began. Found February 17th (https://t.co/EtoseGnBfT)
+    and found out that Greg initially suggested The Indienauts as the name for the
+    group.
+
+    - I renamed Team AllHailNoah to The Indienauts without asking Tim.'}
+2: {text: '- I offered Greg the @WSTLBLWR Twitter handle that I control.
+
+    - I was trying to write an #SL4A script to follow my GPS and give me suggestions
+    whether to run faster or slower on PE. Ended up "running" 200 kilometers while
+    sitting on a kitchen chair.
+
+    - Meanwhile Finnbar made a cool random-generated isometric roguelike and it was
+    really fun and cute and I had a storyline idea about pancakes for that.
+
+    - I told Finn that I''m tired of all the NSA shit and he misunderstood it as "I''m
+    tired of all the NSA stuff so I''ll just stop caring and give up on signing all
+    the petitions" and said no wonder I''m a Christian, and I felt offended and people
+    kept calling him a dick.
+
+    - For Polish homework, I wrote an article about #CandyJam, and even interviewed
+    Blechi!'}
+3: {text: '- I got into the Steam In-Home Streaming Beta. Now to get a LAN cable.'}
+4: {text: '- Finn got blocked by Sophie Houlden. Again. For opposing something without
+    knowing it. Again.
+
+    - Ollie''s girlfriend got her mom to play Flappy Bird.
+
+    - I found out about #PolishGamedev hashtag, an action where Polish gamedevs were
+    tweeting about themselves.
+
+    - Me and James decided that we programmers should all live together and have a
+    common hackerspace. TBC'}
+5: {text: '- Kale inspired me to learn about old computers. It''s on my Google Keep
+    now, even despite I don''t have time or reason to do it.
+
+    - I had some fun trying to make a little platformer in Scratch.
+
+    - Tim wanted to make a game but we ended up doing nothing.
+
+    - Greg was looking for blog ideas and I told him to write about Spotify. So he
+    did.'}
+6: {text: '- https://twitter.com/humblesupport/status/431507418573332480'}
+7: {text: '- I spent about an hour in commandline interface without running X server.
+
+    - I accidentally enabled Spotify Premium 48-hours trial again by launching Despotify.'}
+9: {text: '- I noticed that Ludum Dare 29 will most likely be right after my exams.
+    Pfff.
+
+    - Kamil Stoch, Polish ski jumper, won gold at #Olympics!!! Yay!'}
