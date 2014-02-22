@@ -50,3 +50,44 @@
     Pfff.
 
     - Kamil Stoch, Polish ski jumper, won gold at #Olympics!!! Yay!'}
+17: {text: '- #TeamAllHailNoah birthday at 2 a.m.!
+
+    - I expanded my services into another industry: ISP. I was promised 1 zł (~$.33)
+    per day of sharing my personal wi-fi at school with two friends.'}
+18: {text: "- I visited an educational fair thing and had an opportunity to ask people
+    from #Zamoy if the school is good.\n - I was convinced quickly as the guy used
+    two key words: \"C++\" and \"Java\"."}
+19: {text: '- Inspired by #twitchplayspokemon, Rossy made a Twitch-controlled version
+    of The Binding of Isaac.
+
+    - I thought I understood Google App Engine, but it turned out I don''t.
+
+    - Facebook (according to Antonie, Satan) acquired WhatsApp.'}
+20: {text: "- **About 70 people killed in #euromaidan protests :(**\n - I was gonna
+    make a stealth roguelike inspired by protests, but had no time.\n - I set up myself
+    a Twilio gateway that I can call to tweet a recorded message.\n- Blechi announced
+    Spring Jam Week, March 17-23.\n- I rebuilt my Humble music collection again. Now
+    Amarok transcodes stuff into MP3 onto my portable player properly."}
+21: {text: '- Dermatologist added milk to food I cannot eat. :(
+
+    - I started installing BOINC everywhere, from school computers to Lunatic''s Dream.
+
+    - #xkcd 1333 is about #TwitchPlaysPokemon. Hehehe, dammit. Awesome.
+
+    - A lot changed about #euromaidan. Glad to see Ukraine''s changing for better
+    so fast.'}
+22: {text: '- Catacomb Snatch music inspired me to start trying to make a 3D version
+    of that.
+
+    - Jacic wrote a tutorial on starting with HaxePunk!
+
+    - That guy who made Disco Dodgeball started a nice piece of IF, #TwitterTextAdventure.
+    Heavily inspired by #TwitchPlaysPokemon.
+
+    - It turned out we have Revolution on TV. Here in Poland. Isn''t it awesome?
+
+    - I decided to download GameMaker Studio Standard while the sale lasts. Free software
+    is cool sometimes.
+
+    - I ported #Fimichi''s gamestate system for Love2D to Moonscript. Man, was it
+    hard.'}
