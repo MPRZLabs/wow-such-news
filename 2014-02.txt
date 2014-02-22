@@ -50,13 +50,48 @@
     Pfff.
 
     - Kamil Stoch, Polish ski jumper, won gold at #Olympics!!! Yay!'}
+13: {text: '- I made a Valentine''s Day card for lonely geeks.'}
+14: {text: '- Big Giant Circles released The Glory Days!
+
+    - I had an idea to make an SSH-controlled wireless music player, basically Pi
+    with headphones.
+
+    - I got some helper mods to work on Minecraft 1.7.2
+
+    - I tried out Anahita and it was nice but lacked some stuff.
+
+    - I used Valentine''s Day as an opportunity to talk about surveillance and NSA
+    and stuff on Twitter.'}
+15: {text: '- I realized how being open to suggestions regarding itch.io ruins Leaf''s
+    life.
+
+    - I was reinstalling my Pi again.
+
+    - I saw Porta-Pi and I got mental breakdown.'}
+16: {text: '- Finnbar wrote us cool fanfares, and I started making a full track out
+    of my fanfare!
+
+    - I reached 200 followers.
+
+    - I used Fusion Tables to analyse my timetable
+
+    - I had an idea for a social experiment that would show people how NSA works.
+
+    - I found out there''s AHN bday tomorrow so I thanked everybody for the great
+    year and uploaded Taxoptile model to itch.io for free as a present for everybody.'}
 17: {text: '- #TeamAllHailNoah birthday at 2 a.m.!
 
     - I expanded my services into another industry: ISP. I was promised 1 zł (~$.33)
     per day of sharing my personal wi-fi at school with two friends.'}
-18: {text: "- I visited an educational fair thing and had an opportunity to ask people
-    from #Zamoy if the school is good.\n - I was convinced quickly as the guy used
-    two key words: \"C++\" and \"Java\"."}
+18: {text: "- I took $.15 from my Game Jolt ad revenue onto my PayPal, hoping for
+    Spotify to let me use my PayPal for 30-day trial. Nope. Didn't work.\n- I bought
+    Humble Indie Bundle 11 for $.10 of the mentioned money cause I couldn't resist
+    and I lost my BTC somewhere.\n- I visited an educational fair thing and had an
+    opportunity to ask people from #Zamoy if the school is good.\n - I was convinced
+    quickly as the guy used two key words: \"C++\" and \"Java\".\n - Meanwhile, I
+    found myself a good college for once I finish high school. Polish-Japanese something
+    something, very much IT. Unfortunately, would cost me 3000 euros per year. No
+    way."}
 19: {text: '- Inspired by #twitchplayspokemon, Rossy made a Twitch-controlled version
     of The Binding of Isaac.
 
