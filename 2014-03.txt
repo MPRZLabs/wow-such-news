@@ -1,0 +1,54 @@
+1: {text: '- I had a nice bike trip around the county hunting for #Ingress portals
+    with @Ice_panther. First one was 10 km away, we captured it quickly. Second one
+    we found accidentally, passing by, couldn''t capture cause it was level 4 and
+    I can only use level 2 bursters. Third one, well, we didn''t capture cause we
+    got lost and then had to superquickly get home and we both got yelled at by parents.
+
+    - I hated porting Covenant. codebase to Moonscript cause my code doesn''t work.'}
+2: {text: "- I decided to learn C++ cause Antonijn knows it so why not me.\n - Blechi
+    suggested I learn D next year together with him.\n- I was trying to translate
+    Reddit to Polish a bit, and I came to conclusion that I hate Transifex."}
+3: {text: '- I learned that one of my classmates (the one that attends History club)
+    learns Japanese. Also she''s (probably) the only person in my class who doesn''t
+    hate manga and anime.
+
+    - Transifex''s CEO replied to my tweet regarding how I hate it. I told him more
+    about what I find bad. I like such CEOs.'}
+4: {text: "- My IT teacher asked if Counter-Strike server can be hosted on Linux.
+    I told him everything about Valve and Linux.\n - He let me install Counter-Strike:
+    Source on one of computers as a proof.\n - He said he's talking to headmaster
+    to get us a better webserver. He's aiming for a powerful little box, I hope for
+    multicore.\n- I decided to start slowly replacing Facebook with Diaspora* and
+    Twitter with GNU Social. On Diaspora* I'm michcioperz@flokk.no and on GNU Social/StatusNet
+    I'm michcioperz@quitter.se.\n- I found out about GNU MediaGoblin but I prefer
+    MediaCrush for obvious reasons.\n- Half an indie gamedev community was talking
+    about Ukraine in comments under Sosowski's post on Facebook."}
+5: {text: '- I watched 3rd episode of Revolution and it was awesome.
+
+    - Mom was talking about Moodle so I quickly set up an instance on OpenShift to
+    test.
+
+    - I started trying to use Django and clearly enjoyed it.
+
+    - I asked dad to buy me a Spotify Premium gift card.
+
+    - I had an idea to use C418''s music for something at school.
+
+    - I said I appreciate Polish teenpop fans'' stubbornness.'}
+6: {text: "- Arni had a cool game idea, Turbo-Pigeon-Surfing. Actually, my classmates
+    were talking about turbo-pigeons and kite-surfing, and I listened. Hehehe.\n-
+    I watched the first episode of #Sherlock from my PVR and IT FREAKIN' FORGOT LAST
+    15 MINUTES DAMN. I had to google google google and found the episode on Dailymotion.\n-
+    I made a [site](http://allhailnoah.github.io/ThinkBumpus) for \"#ThinkBumpus Church\",
+    haha.\n- I wanted to drop support for MPi framework and port Aleja Gwiazd to something.\n
+    - I started with Django, it was going quite well until it came to rendering pages.\n
+    - Blechi suggested Flask+Elixir and I'll consider it.\n - I got reminded why I
+    made MPi. #k228's poems... -_-\n- Dad bought me a Spotify gift card. I immediately
+    redeemed it and closed the browser, going #ThinkBumpus mode.\n- Later I came back
+    to Quitter for a while to make a note of leaving social networks for some time.\n-
+    Tim said he likes the site but suggested I don't call it a religion :D"}
+7: {text: "= Main thought of the day: Lack of social networks is not good for me.
+    But Spotify's worth it. =\n\n- I got reminded that this place has a potential
+    for sharing stuff without social networks.\n- I decided to revive routiner.py
+    cause I don't want to depend on Lift.\n - I started rewriting some parts of it
+    to use Elixir cause I'm tired."}
