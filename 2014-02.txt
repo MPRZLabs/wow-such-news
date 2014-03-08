@@ -126,3 +126,25 @@
 
     - I ported #Fimichi''s gamestate system for Love2D to Moonscript. Man, was it
     hard.'}
+23: {text: '- I saw King''s ad on TV and hated them.'}
+24: {text: '- My life felt like a soap opera. -_-
+
+    - I took my OUYA pad to school, connected it to my phone, and played Chrono Trigger.
+    People''s reactions were brilliant. xD
+
+    - I started using Trello for personal notes and for homeworks.'}
+25: {text: '- Starseed Pilgrim was added to Humble Indie Bundle 11 but I have no money.'}
+26: {text: '- At 2 a.m. I installed Pixlr Express and made a meme about my classmate.
+
+    - I installed LastPass to increase passwords security.'}
+27: {text: '- I found out the hackerspace in my city will be 10 minutes from #zamoy
+    \o/
+
+    - I tested my video camera and it appears we''ll need a "trojan human" to record
+    that movie I wanted to make. And by trojan human I mean a construction similar
+    to a human with camera in it instead of on it.'}
+28: {text: '- @Ice_panther started using Twitter for real, installed CryEngine but
+    failed to do anything :D
+
+    - On birthday of Raspberry Pi, Broadcom published docs of GPU chipset and offered
+    $10000 to the first person to port Quake 3.'}

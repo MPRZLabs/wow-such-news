@@ -4,16 +4,25 @@
     I can only use level 2 bursters. Third one, well, we didn''t capture cause we
     got lost and then had to superquickly get home and we both got yelled at by parents.
 
-    - I hated porting Covenant. codebase to Moonscript cause my code doesn''t work.'}
-2: {text: "- I decided to learn C++ cause Antonijn knows it so why not me.\n - Blechi
-    suggested I learn D next year together with him.\n- I was trying to translate
-    Reddit to Polish a bit, and I came to conclusion that I hate Transifex."}
-3: {text: '- I learned that one of my classmates (the one that attends History club)
-    learns Japanese. Also she''s (probably) the only person in my class who doesn''t
-    hate manga and anime.
+    - I tried writing component-based gameobject system for Covenant. EP and #Fimichi
+    codebase generally. It doesn''t freakin'' work... -_-
 
-    - Transifex''s CEO replied to my tweet regarding how I hate it. I told him more
-    about what I find bad. I like such CEOs.'}
+    - I tried installing Moai SDK but my internet hates me. Looks like a good engine,
+    if Double Fine use it.'}
+2: {text: "- I decided to learn C++ cause Antonijn knows it so why not me.\n - Blechi
+    suggested I learn D next year together with him.\n- I had an idea to dedicate
+    this month's MiniLD to Ukrainians.\n- The girl I danced with on the prom was chosen/forced/asked
+    to write the article for the school paper about the prom. The impressive thing
+    was that she used correct indentation. Maybe I should teach her programming in
+    Python?\n- I installed Minetest and fell in love with nyan cat blocks.\n- Although
+    I don't understand it, James decided to port Minecraft to Android directly.\n-
+    I was trying to translate Reddit to Polish a bit, and I came to conclusion that
+    I hate Transifex."}
+3: {text: "- I learned that one of my classmates (the one that attends History club)
+    learns Japanese. Also she's (probably) the only person in my class who doesn't
+    hate manga and anime.\n - That reminded me I was gonna learn Japanese too.\n-
+    #xkcd 1337 happened.\n- Transifex's CEO replied to my tweet regarding how I hate
+    it. I told him more about what I find bad. I like such CEOs."}
 4: {text: "- My IT teacher asked if Counter-Strike server can be hosted on Linux.
     I told him everything about Valve and Linux.\n - He let me install Counter-Strike:
     Source on one of computers as a proof.\n - He said he's talking to headmaster
@@ -51,4 +60,10 @@
     But Spotify's worth it. =\n\n- I got reminded that this place has a potential
     for sharing stuff without social networks.\n- I decided to revive routiner.py
     cause I don't want to depend on Lift.\n - I started rewriting some parts of it
-    to use Elixir cause I'm tired."}
+    to use Elixir cause I'm tired.\n- I watched Madagascar 3 and it is more of a spin-off
+    than a sequel."}
+8: {text: '= Main thought of the day: Lack of social networks no longer feels like
+    something special, especially now that I have this blog-thing. =
+
+    - I bought Ittle Dew on Ouya sale, played for 20 minutes, then remembered I have
+    stuff to learn for Wednesday.'}
