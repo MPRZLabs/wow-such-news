@@ -66,4 +66,22 @@
     something special, especially now that I have this blog-thing. =
 
     - I bought Ittle Dew on Ouya sale, played for 20 minutes, then remembered I have
-    stuff to learn for Wednesday.'}
+    stuff to learn for Wednesday.
+
+    - After unfortunate adventures with Django I decided that to make Aleja Gwiazd
+    work after I leave (and to get rid of PHP) I need to build my own interpreted
+    language. I called it #Ally (a pun on Aleja).'}
+9: {text: '= Main thought of the day: tea is better when made using 100% hot water
+    (not 50% cold 50% hot), cause you can''t drink the whole mug at once. =
+
+    - I was reading at church. Although no one seems to have noticed, I was stressed
+    and was shaking like jelly.
+
+    - I fixed previous day''s #Ally bug by adding debugging, hehe.
+
+    - In #Ally I changed the way of handling sites, now every site has a .allyconfig
+    file with site title and stuff. Also, now directories are handled, not files.
+
+    - I enabled Google Authenticator PAM module on LunaticArchitect64.
+
+'}
