@@ -85,3 +85,12 @@
     - I enabled Google Authenticator PAM module on LunaticArchitect64.
 
 '}
+10: {text: "= Main thought of the day: the best way to fix my school's website is
+    to put it in a subdirectory and make a totally new website in main directory.
+    =\n- At school, on a break, I had a school laptop (the one in superposition, both
+    hated and loved) and a junior passing by said \"nice laptop\". Haha, I don't know
+    her and I don't feel like I want to. Totally not a tech person, given she said
+    it's a nice laptop.\n - Y'know, it's the nicest laptop our school has, but not
+    a nice one. Nice school laptops are extinct. Or something.\n- I watched Sherlock
+    s01e02.\n - OH MY HE USED INTERNET EXPLORER HOW NOT TO HATE THIS SHOW AMIRITE?\n
+    - No wonder that Chinese was killed so easily, she had WinXP on her laptop."}
