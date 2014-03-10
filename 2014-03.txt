@@ -84,7 +84,7 @@
 
     - I enabled Google Authenticator PAM module on LunaticArchitect64.
 
-'}
+    - #Ally now has carousels'}
 10: {text: "= Main thought of the day: the best way to fix my school's website is
     to put it in a subdirectory and make a totally new website in main directory.
     =\n- At school, on a break, I had a school laptop (the one in superposition, both
