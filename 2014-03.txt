@@ -68,7 +68,7 @@
     - I bought Ittle Dew on Ouya sale, played for 20 minutes, then remembered I have
     stuff to learn for Wednesday.
 
-    - After unfortunate adventures with Django I decided that to make Aleja Gwiazd
+    - After unfortunate adventures with Django I decided that to make #AlejaGwiazd
     work after I leave (and to get rid of PHP) I need to build my own interpreted
     language. I called it #Ally (a pun on Aleja).'}
 9: {text: '= Main thought of the day: tea is better when made using 100% hot water
@@ -91,7 +91,7 @@
     hated and loved) and a junior passing by said \"nice laptop\". Haha, I don't know
     her and I don't feel like I want to. Totally not a tech person, given she said
     it's a nice laptop.\n - Y'know, it's the nicest laptop our school has, but not
-    a nice one. Nice school laptops are extinct. Or something.\n- I watched Sherlock
+    a nice one. Nice school laptops are extinct. Or something.\n- I watched #Sherlock
     s01e02.\n - OH MY HE USED INTERNET EXPLORER HOW NOT TO HATE THIS SHOW AMIRITE?\n
     - No wonder that Chinese was killed so easily, she had WinXP on her laptop."}
 11: {text: '- Finished main functionality of #Ally.'}
@@ -113,3 +113,31 @@
     for ~10 euros but in the end borrowed Arni some money so he could buy a punk rock
     album.\n  - I think I accidentally scared a little girl passing by. Damn, I'm
     too tall."}
+13: {text: "- Today on English we had some fun with those things \"dangerous - dangerously\"\n
+    - Our teacher told us the only possible \"fastly\" is \"fast Lee\".\n - Dawid
+    said those things are conjugated by cases. Teacher told us to call 112. Marcin
+    said he'll call, and Dawid said \"How can you call if you don't have money?\"\n-
+    I got employment in the IT miracles industry again. Given a recording of a Poland's
+    Got Talent performance, I have to get rid of TV station's logo, content rating,
+    and voting bar. For the next Thursday.\n - So when I got back home I slept for
+    a few hours and started playing Minecraft.\n- Joel took his last breath.\n - I
+    say it this way: Joel won with final score of 3 years."}
+14: {text: '- I took #Ally to school for #AlejaGwiazd rehearsal and literally it helped
+    nothing.'}
+15: {text: '- I had to walk back home from choir practice. Wind and rain straight
+    in my face, not to mention guitar on my back. Ugh. Slept for 2 hours.'}
+16: {text: '- I made a very bad decision to install GBC emu on phone and play Pokemon
+    Crystal.
+
+    - I learned that my performance at #AlejaGwiazd this year is in danger as our
+    singer is afraid of "laming" and "not managing to do it".
+
+    - I hacked more #Ingress portals while driving through the city. I even hacked
+    an unclaimed one (wish I noticed it lacked resonators).
+
+    - I watched #Sherlock s01e03 <3
+
+    - I noticed how I forget to write this stuff here.
+
+    - I realized how much work I have yet to do in #Ally next few days despite how
+    much is already done.'}
