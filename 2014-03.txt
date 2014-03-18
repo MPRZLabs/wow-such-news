@@ -141,3 +141,10 @@
 
     - I realized how much work I have yet to do in #Ally next few days despite how
     much is already done.'}
+17: {text: '- I scored a goal in handball on PE!
+
+    - I went to bed at 2 a.m. on Tuesday cause I was finishing up #Ally.'}
+18: {text: '- #Ally version of #AlejaGwiazd was uploaded and began its official existence.
+
+    - Arni scored a goal in football on PE, so our teacher gave each of us a 5 cause
+    we''re not very sport-ish.'}
