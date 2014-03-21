@@ -148,3 +148,13 @@
 
     - Arni scored a goal in football on PE, so our teacher gave each of us a 5 cause
     we''re not very sport-ish.'}
+19: {text: '- I started feeling sick.'}
+20: {text: "- I was doing advanced computer usage (playing music, running PowerPoint
+    presentations, displaying videos) on a patriotic show at school and #AlejaGwiazd
+    concert.\n - For the first time in a while, I used clone mode of the projector
+    instead of the extend mode.\n - I played guitar. Woo!\n - Kuba sang and it wasn't
+    that bad.\n- I started playing Pokemon Yellow."}
+21: {text: '- I woke up even more sick yet I went to school.
+
+    - I got an idea to make a game engine similar to Love2D but with Python or Ruby
+    scripting.'}
